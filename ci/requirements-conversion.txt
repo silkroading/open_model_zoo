@@ -31,7 +31,7 @@ torch==1.2.0
 torchvision==0.4.0
 typing-extensions==3.7.4  # via onnx
 typing==3.7.4             # via onnx
-urllib3==1.25.6           # via requests
+urllib3==1.25.8           # via requests
 werkzeug==0.16.0          # via tensorboard
 wheel==0.33.6             # via tensorboard, tensorflow
 wrapt==1.11.2             # via tensorflow
