@@ -4,7 +4,7 @@
 #
 #    pip-compile --output-file=ci/requirements-ac.txt tools/accuracy_checker/requirements.in
 #
-joblib==0.14.0            # via scikit-learn
+joblib==1.2.0            # via scikit-learn
 nibabel==2.5.1
 numpy==1.17.2
 pillow==6.2.0
