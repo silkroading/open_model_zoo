@@ -1,6 +1,6 @@
 absl-py==0.8.0            # via tensorboard, tensorflow
 astor==0.8.0              # via tensorflow
-certifi==2019.9.11        # via requests
+certifi==2022.12.7        # via requests
 chardet==3.0.4            # via requests
 decorator==4.4.0          # via networkx
 defusedxml==0.6.0
