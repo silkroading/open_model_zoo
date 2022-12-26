@@ -33,7 +33,7 @@ typing-extensions==3.7.4  # via onnx
 typing==3.7.4             # via onnx
 urllib3==1.25.6           # via requests
 werkzeug==0.16.0          # via tensorboard
-wheel==0.33.6             # via tensorboard, tensorflow
+wheel==0.38.1             # via tensorboard, tensorflow
 wrapt==1.11.2             # via tensorflow
 
 # The following packages are considered to be unsafe in a requirements file:
